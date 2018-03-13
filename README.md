@@ -1,4 +1,4 @@
-# RHL-Coding
+# Coding
 Coding examples, assignments, and all thing related to Coding at RHL.
 
 # Intro
