@@ -1,3 +1,5 @@
+//Layout inspired by http://www.csuci.edu/ati/im/faculty/documents/sample-syllabus.doc
+
 # Part 1: Course Information
 - Instructor Information
   - 
