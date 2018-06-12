@@ -28,4 +28,4 @@
 - Commit to Integrity
 - Academic Dishonesty Policy
 
-[Resources]("RESOURCES.md")
+[Resources](RESOURCES.md)
