@@ -1,5 +1,3 @@
-//Layout inspired by http://www.csuci.edu/ati/im/faculty/documents/sample-syllabus.doc
-
 # Part 1: Course Information
 - Instructor Information
   - 
@@ -29,3 +27,5 @@
 - Inform Your Instructor of Any Accommodations Needed
 - Commit to Integrity
 - Academic Dishonesty Policy
+
+Layout inspired by http://www.csuci.edu/ati/im/faculty/documents/sample-syllabus.doc
