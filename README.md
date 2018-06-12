@@ -10,9 +10,20 @@
   - 
 - Course Structure
 
+# Part 2: Student Learning Outcomes
 
-# Coding
-Coding examples, assignments, and all thing related to Coding at RHL.
+# Part 3: Topic Outline/Schedule
+- Week 01: Topic
+  - Details
 
-# Intro
-Welcome to the first Git repository at River HomeLink. This is my first time using GitHub so let's learn together as we learn the basics of coding and how to use the tools that are used these days.
+# Part 4: Grading Policy
+
+# Part 5: Course Policies
+- Attend Class
+- Participate
+- Build Rapport
+- Complete Assignments
+- Understand When You May Drop This Course
+- Inform Your Instructor of Any Accommodations Needed
+- Commit to Integrity
+- Academic Dishonesty Policy
