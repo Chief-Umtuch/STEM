@@ -1,3 +1,16 @@
+# Part 1: Course Information
+- Instructor Information
+  - 
+- Course Description
+  - Prerequisite
+- Textbook & Course Materials
+  - Required Text
+  - Recommended Text & Other Readings
+- Course Requirements
+  - 
+- Course Structure
+
+
 # Coding
 Coding examples, assignments, and all thing related to Coding at RHL.
 
