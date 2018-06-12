@@ -27,3 +27,5 @@
 - Inform Your Instructor of Any Accommodations Needed
 - Commit to Integrity
 - Academic Dishonesty Policy
+
+[Resources]("RESOURCES.md")
